@@ -22,7 +22,7 @@ The current major release, BookSim 2.0, supports a wide range of topologies such
 
 We have already provided the prebuild copy of booksim with all valid licencing and to download it just download the zip file or use below code
 ```bash
-$ git clone https://github.com/Varun-Rathore/Minor-2/
+$ git clone https://github.com/abhi3121/RL-based-routing/
 ```
 Although if someone wants the fresh or update copy then latest official release of the simulator can be checked out from our subversion (SVN) repository. Make sure a subversion client is installed on your machine; under UNIX, you can use the following command to check out a working copy:
 ```bash
